@@ -27,10 +27,9 @@
 <p align="center">💻 <b>Para PC:</b></p>
 <p align="center">
   <img alt="Projeto-img1" src="https://github.com/user-attachments/assets/5f5c9880-46c5-4f1d-92b3-00235f358c20">
-  <img alt="Projeto-img2" src="">
-  <img alt="Projeto-img3" src="">
-  <img alt="Projeto-img4" src="">
-  <img alt="Projeto-img5" src="">
+  <img alt="Projeto-img2" src="https://github.com/user-attachments/assets/3503c1c6-c0f1-4cc6-beb8-cea597b70fec">
+  <img alt="Projeto-img3" src="https://github.com/user-attachments/assets/7406fb65-3e9e-456d-8026-f95a7ac2bd1b">
+  <img alt="Projeto-img4" src="https://github.com/user-attachments/assets/d048d0bd-2328-428d-92a6-5e110cf2fcb7">
 </p>
 
 <!--
