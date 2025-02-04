@@ -26,12 +26,12 @@
 
 <p align="center">💻 <b>Para PC:</b></p>
 <p align="center">
-  <img alt="Projeto-img1" src="https://github.com/user-attachments/assets/e02bad8d-63cd-4940-a549-3d05c7f76285">
+<!--   <img alt="Projeto-img1" src="https://github.com/user-attachments/assets/e02bad8d-63cd-4940-a549-3d05c7f76285">
   <img alt="Projeto-img2" src="https://github.com/user-attachments/assets/d314a3ba-5505-46aa-8b8b-40b50f3bfdbd">
   <img alt="Projeto-img3" src="https://github.com/user-attachments/assets/dddc9faf-2de9-4400-99bf-6d527d074b9f">
   <img alt="Projeto-img4" src="https://github.com/user-attachments/assets/f1653e9d-dc42-4c15-8eff-d3d77776feab">
   <img alt="Projeto-img5" src="https://github.com/user-attachments/assets/f1f3d22b-a082-4a74-a8b9-7c343935d32b">
-</p>
+</p> -->
 
 <!--
 <p align="center">📱 <b>Para Celular:</b></p>
@@ -51,7 +51,7 @@ Esse projeto foi desenvolvido utilizando:
 
 ## 🔗 Link do Projeto
 
-Para acessar o projeto <a href="https://projeto-formulario-de-matricula.vercel.app/" target="_blank">Clique Aqui</a>.
+Para acessar o projeto <a href="" target="_blank">Clique Aqui</a>.
 
 ## 📝 Licença
 
