@@ -32,11 +32,11 @@ aside {
   padding: 4rem;
 
   & .aside-container {
-      max-width: 31rem;
-      
-      & > img {
-        margin-top: 2rem;
-      }
+    max-width: 31rem;
+
+    & > img {
+      margin-top: 2rem;
+    }
   }
 
   h2 {
@@ -47,5 +47,30 @@ aside {
       color: var(--text-highlight);
     }
   }
+}
 
+@media (width <= 48em) {
+  #app {
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-columns: 1fr;
+    height: 100vh;
+    overflow-y: auto;
+  }
+
+  aside {
+    order: 1;
+    padding: 1.5rem;
+    text-align: center;
+
+    & h2 {
+      margin-bottom: 0.75rem;
+    }
+  }
+
+  main {
+    order: 2;
+    padding: 2rem;
+    overflow: initial;
+  }
 }
